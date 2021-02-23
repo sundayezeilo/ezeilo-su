@@ -1,4 +1,4 @@
-- I am a full-stack developer with entry-level experience in Ruby on Rails.
+:+1 I am a full-stack developer with entry-level experience in Ruby on Rails.
 - I have intermediate-level experience in embedded C/C++.
 - I work with ARM Cortex-M series Microcontrollers.
 - I am open for hire as a full-stack developer or as an embedded system engineer.

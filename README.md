@@ -4,4 +4,4 @@
 - If you like what you see and have project you need coded, don't hesistate to contact me.
 - ezeilo.su@gmail.com
 
-[![Sunday Ezeilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ezeilo-su/github-readme-stats)
+[![Sunday Ezeilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeilo-su)](https://github.com/ezeilo-su/github-readme-stats)

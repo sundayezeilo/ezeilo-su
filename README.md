@@ -7,3 +7,5 @@
 <br/>:headphones:&nbsp; Ask me about country music and code
 
 ![Sunday Ezeilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeilo-su&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeilo-su&layout=compact&langs_count=7&theme=dark)](https://github.com/ezeilo-su/github-readme-stats)

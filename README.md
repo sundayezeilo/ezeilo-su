@@ -1,5 +1,5 @@
 :point_right:&nbsp; I am a software engineer with experience in web development and embedded system.
-<br/>:point_right:&nbsp; I have experience in backend and APIs using NodeJS, Express, MongoDB, Ruby on Rails, and PostgreSQL.
+<br/>:point_right:&nbsp; I have experience in backend and web APIs using NodeJS, Express, MongoDB, Ruby on Rails, and PostgreSQL.
 <br/>:point_right:&nbsp; I also have knowledge of frontend using React, Redux, and Hooks.
 <br/>:point_right:&nbsp; I have intermediate proficiency in embedded C.
 <br/>:point_right:&nbsp; I work with ARM Cortex-M series Microcontrollers.

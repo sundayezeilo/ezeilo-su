@@ -5,7 +5,7 @@
 <br/>:point_right:&nbsp; I work with ARM Cortex-M series Microcontrollers.
 <br/>:thumbsup:&nbsp; I am open for hire as a backend engineer or as an embedded system engineer.
 <br/>:email:&nbsp; Contact me via ezeilo.su@gmail.com.
-<br/>:headphones:&nbsp; Ask me about country music and code.
+<br/>:headphones:&nbsp; Ask me about code and country music.
 
 ![Sunday Ezeilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezeilo-su&show_icons=true&theme=radical)
 

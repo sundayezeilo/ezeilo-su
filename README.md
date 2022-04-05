@@ -5,7 +5,6 @@
 <br/>:point_right:&nbsp; I have knowledge of Microservices and Orchestration.
 <br/>:point_right:&nbsp; I have knowledge of Front-end using React, Redux, and Hooks.
 <br/>:point_right:&nbsp; I also have experience with embedded C.
-<br/>:thumbsup:&nbsp; I am open for hire as a Backend Engineer.
 <br/>:email:&nbsp; Contact me via ezeilo.su@gmail.com.
 <br/>:headphones:&nbsp; Ask me about code and country music.
 
